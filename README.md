@@ -22,12 +22,6 @@ The goal was not just to visualize data, but to transform customer records into 
 
 ---
 
-## 📊 Dashboard Snapshot
-
-![Customer Churn Dashboard](customer-churn-analysis/screenshots/DASHBOARD SCREENSHOT.png)
-
----
-
 ## 🔥 Executive Summary
 
 | Metric | Value |
